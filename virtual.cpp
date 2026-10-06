@@ -41,6 +41,7 @@ public:
 };
 int main()
 {
+    cout<<"..........area of shape.........."<< endl;
     Shape *s;
    
     Circle c(5);
